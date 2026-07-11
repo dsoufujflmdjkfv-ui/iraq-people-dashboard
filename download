@@ -1,0 +1,5 @@
+CLIENT_ID=1487754970634780803
+CLIENT_SECRET=ضع_هنا_Client_Secret
+CALLBACK_URL=https://YOUR-SERVICE.onrender.com/auth/discord/callback
+SESSION_SECRET=ضع_هنا_نص_عشوائي_طويل_وسري
+NODE_ENV=production
